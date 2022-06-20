@@ -1,10 +1,10 @@
 {
   "redirect" : {
  
-"json_popup_wait" : "Server Ready - v18j13",
+"json_popup_wait" : "Wellcome To Tricaal studio",
   
-"mode_no_ads" : false,
-"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
+"mode_no_ads" : true,
+"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 // Mode Iklan
 // 
@@ -23,12 +23,12 @@
 "inter_count" : 2,
 
 "enable_strap" : true,
-"enable_strap_Splah" : true,
+"enable_strap_Splah" : false,
 
 "ads_on_exit_dialog" : true,
 
 "mode_offline_mp3" : false,
-"enable_sticky_notification" : true,
+"enable_sticky_notification" : false,
 
 "startapp" : "YOUR_APP_ID",
 
